@@ -1,0 +1,11 @@
+{
+  "name": "heatfeet-service",
+  "version": "1.0.0",
+  "description": "NodeJS application do Read Data from Arduino Sensors",
+  "main": "main.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Nicolas Lima",
+  "license": "ISC"
+}
